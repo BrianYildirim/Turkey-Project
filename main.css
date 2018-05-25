@@ -1,0 +1,96 @@
+hr {
+	color: #999999;
+	border: 3px solid black;
+}
+
+body {
+	font-family: Trebuchet MS;
+	background-color: #ffffff;
+}
+
+ul.above {
+	margin-left: -1%;
+	font-family: Trebuchet MS;
+}
+
+div.header {
+	position: fixed;
+	font-family: Trebuchet MS;
+}
+
+a.home {
+	margin-left: 1%;
+	font-family: Trebuchet MS;
+}
+
+img.headerimg {
+}
+
+ul.below {
+	margin-left: 250%;
+	font-family: Trebuchet MS;
+}
+
+#carouselExampleIndicators {
+	border: 3px solid #332a2a;
+}
+
+#body {
+	padding-left: 20%;
+	padding-right: 20%;
+	margin-top: 1%;
+	font-family: Trebuchet MS;
+}
+
+a.no {
+	color: #878787;
+	font-family: Trebuchet MS;
+}
+
+div {
+	font-family: Trebuchet MS;
+}
+
+h4.uh {
+	padding-right: 22%;
+}
+
+h3.uh {
+	padding-right: 22%;
+}
+
+li.uhhh {
+	font-size: 19pt;
+}
+
+footer {
+	width: 100%;
+	background-color: #222;
+	padding: 45px 0px;
+}
+
+footer nav {
+}
+
+footer nav ul {
+}
+
+footer nav ul li{
+	display: inline-block;
+	margin-left: 20px;
+	list-style: none;
+}
+
+footer nav ul li a{
+	float: right;
+	color: #fff;
+	font-size: 19pt;
+}
+
+li.malke {
+	padding: 2%;
+}
+
+a.hover {
+	color: white;
+}
